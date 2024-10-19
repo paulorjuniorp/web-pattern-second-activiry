@@ -53,10 +53,11 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    gap: 5px;
 }
 
-.img__link {
-    margin-right: 4px;
+.apresentacao__link__redes {
+    font-family: "Montserrat", sans-serif;;
 }
 
 .apresentacao__conteudo__texto {
